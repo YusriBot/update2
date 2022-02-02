@@ -1,13 +1,13 @@
 {	
 	"prefix": "multi", 
-	"defaultSessionName": "tio", 
+	"defaultSessionName": "Yusri", 
 	"zeksKey": "CpGSLymOQy9KfTKgQZr9eDSYqqR",
 	"autoRead": true,
 	"self": false, 
-	"maxLimit": 30,
-	"ownerList": ["6282221792667@s.whatsapp.net", "6282320830684@s.whatsapp.net"],
+	"maxLimit": 10,
+	"ownerList": ["62085871129183@s.whatsapp.net", "6285871672726@s.whatsapp.net"],
 	"apiUrl": "https://api.zeks.me",
-    "imgUrl": "https://i.postimg.cc/FsfrCYM2/Framework-Javascript.jpg",
-	"pack": "Dari botcahbotz",
-	"author": "082221792667"
+    "imgUrl": "https://i.postimg.cc/zv68zYcF/20211215-032843-min-compress1-11zon-min-11zon-1.jpg",
+	"pack": "Dari YusriBot",
+	"author": "6285871129183"
 }
